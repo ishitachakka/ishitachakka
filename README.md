@@ -1,4 +1,4 @@
-# Hi, I'm Ishita 👋
+# Hi, I'm Ishita!
 
 **AI & Backend Engineer** · Software Engineering @ FGCU · Graduating May 2027
 
@@ -6,7 +6,7 @@ I build LLM agent systems, RAG pipelines, and quantum ML models. Currently worki
 
 ---
 
-### 🔭 What I'm working on
+### What I'm working on
 
 | Project | Description |
 |--------|-------------|
@@ -15,7 +15,7 @@ I build LLM agent systems, RAG pipelines, and quantum ML models. Currently worki
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **AI & ML**
 `LLMs` `RAG` `AI Agents` `Multi-agent Systems` `Quantum ML` `LangChain` `Qdrant` `PennyLane` `PyTorch` `Prompt Engineering`
@@ -31,15 +31,15 @@ I build LLM agent systems, RAG pipelines, and quantum ML models. Currently worki
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- 🟠 **AWS Certified Cloud Practitioner** (2025–2027)
-- 🟢 **NVIDIA Certified Associate** — Generative AI & LLMs (2025–2027)
-- 🔵 **NVIDIA Certified Professional** — Agentic AI *(In Progress)*
+- **AWS Certified Cloud Practitioner** (2025–2027)
+- **NVIDIA Certified Associate** — Generative AI & LLMs (2025–2027)
+- **NVIDIA Certified Professional** — Agentic AI *(In Progress)*
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishita_Chakkalakkal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-chakkalakkal-494113243)
 [![Email](https://img.shields.io/badge/Email-ishitajomon@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ishitajomon@gmail.com)
